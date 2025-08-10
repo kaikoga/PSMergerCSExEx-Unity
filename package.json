@@ -1,0 +1,18 @@
+{
+  "name": "net.kaikoga.psmerger.csexex",
+  "url": "https://vpm.kaikoga.net/millenium/net.kaikoga.psmerger/net.kaikoga.psmerger.csexex-3.0.0.zip",
+  "displayName": "PSMerger CSExEx",
+  "version": "3.0.0",
+  "unity": "2021.3",
+  "description": "Merge PlayerScript",
+  "dependencies": {
+    "mu.cluster.cluster-creator-kit": "2.0.0",
+    "net.kaikoga.psmerger": "3.0.0"
+  },
+  "author": {
+    "name": "kaikoga",
+    "email": "info@mail.kaikoga.net",
+    "url": "https://www.kaikoga.net/"
+  },
+  "license": "MIT"
+}
