@@ -1,12 +1,12 @@
 # PSMerger CSExEx
 
-ClusterScriptExtension Extension for PSMerger
+ClusterScriptExtensions Extension for PSMerger
 
-Adds ClusterScriptExtension like inspector extension to PSMerger.
+Adds ClusterScriptExtensions like inspector extension to PSMerger.
 
 ## Installation
 
-ClusterScriptExtension is also required.
+ClusterScriptExtensions is also required.
 https://booth.pm/ja/items/6089933
 
 ```json
@@ -19,5 +19,5 @@ https://booth.pm/ja/items/6089933
 
 ## Usage
 
-- Write ClusterScriptExtension style field definition comments
+- Write ClusterScriptExtensions style field definition comments
 - `PlayerScript Merger Extension` or `ItemScript Merger Extension`
