@@ -2,6 +2,7 @@ using System;
 using System.Linq;
 using Baxter.ClusterScriptExtensions;
 using Baxter.ClusterScriptExtensions.Editor.ScriptParser;
+using Silksprite.PSMerger.CompilerAPI.Extensions;
 
 namespace Silksprite.PSMerger.CSExEx.ScriptUpdater
 {

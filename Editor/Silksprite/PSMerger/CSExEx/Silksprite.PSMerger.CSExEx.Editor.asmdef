@@ -8,9 +8,8 @@
         "Baxter.ClusterScriptExtensions",
         "Baxter.ClusterScriptExtensions.Editor",
         "Silksprite.PSMerger",
-        "Silksprite.PSMerger.Compiler",
-        "Silksprite.PSMerger.CSExEx",
-        "Silksprite.PSMerger.Editor.Compiler"
+        "Silksprite.PSMerger.Editor.CompilerAPI",
+        "Silksprite.PSMerger.CSExEx"
     ],
     "includePlatforms": [
         "Editor"
